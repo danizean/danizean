@@ -20,7 +20,7 @@ jobs:
 
       - name: Commit & Push
         run: |
-          git config --global user.email "danizean90@gmail.com"
+          git config --global user.email "hasyimdani01@gmail.com"
           git config --global user.name "danizean"
           git add dist/snake.svg
           git commit -m "Update Snake Animation" || exit 0
