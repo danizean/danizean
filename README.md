@@ -21,15 +21,15 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=danizean&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danizean&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ### 📌 Most Used Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danizean&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
 
 ---
