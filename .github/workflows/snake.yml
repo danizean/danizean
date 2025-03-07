@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Jalankan setiap tengah malam UTC
+  workflow_dispatch:  # Bisa dijalankan secara manual
 
 jobs:
   generate-snake:
@@ -15,13 +15,13 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@master
         with:
-          github_user_name: danizean
-          outputs: dist/snake.svg
+          github_user_name: yourusername
+          outputs: snake.svg  # Hasilkan file di root repo
 
       - name: Commit & Push
         run: |
-          git config --global user.email "hasyimdani01@gmail.com"
+          git config --global user.email "hasyimdani12@example.com"
           git config --global user.name "danizean"
-          git add dist/snake.svg
+          git add snake.svg
           git commit -m "Update Snake Animation" || exit 0
           git push
