@@ -34,12 +34,6 @@
 
 ---
 
-### 🕹️ GitHub Contribution Snake:
-<p align="center">
-  <img src="https://github.com/danizean/danizean/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-</p>
-
----
 
 ### 💬 Quote of the Day:
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
