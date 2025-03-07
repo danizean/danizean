@@ -23,7 +23,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danizean&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danizean&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danizean&theme=tokyonight" width="48%" />
 </p>
 
 ---
